@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-drum-machine/static/css/main.82a2924c.chunk.css",
+    "main.js": "/react-drum-machine/static/js/main.898e6075.chunk.js",
+    "main.js.map": "/react-drum-machine/static/js/main.898e6075.chunk.js.map",
+    "runtime-main.js": "/react-drum-machine/static/js/runtime-main.61921e4b.js",
+    "runtime-main.js.map": "/react-drum-machine/static/js/runtime-main.61921e4b.js.map",
+    "static/js/2.47f8e77d.chunk.js": "/react-drum-machine/static/js/2.47f8e77d.chunk.js",
+    "static/js/2.47f8e77d.chunk.js.map": "/react-drum-machine/static/js/2.47f8e77d.chunk.js.map",
+    "static/js/3.b0dfadad.chunk.js": "/react-drum-machine/static/js/3.b0dfadad.chunk.js",
+    "static/js/3.b0dfadad.chunk.js.map": "/react-drum-machine/static/js/3.b0dfadad.chunk.js.map",
+    "index.html": "/react-drum-machine/index.html",
+    "static/css/main.82a2924c.chunk.css.map": "/react-drum-machine/static/css/main.82a2924c.chunk.css.map",
+    "static/js/2.47f8e77d.chunk.js.LICENSE.txt": "/react-drum-machine/static/js/2.47f8e77d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-drum-machine/static/media/saxmono-webfont.8793e765.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61921e4b.js",
+    "static/js/2.47f8e77d.chunk.js",
+    "static/css/main.82a2924c.chunk.css",
+    "static/js/main.898e6075.chunk.js"
+  ]
+}
